@@ -1,0 +1,2 @@
+# lscript
+New Programming Lang
